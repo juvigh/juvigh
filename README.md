@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Javascript
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Antes de virar um bebê, minha família acreditava que eu era uma pedra no rim.
+- ⚡ Fun fact: Antes de virar um bebê, eu ja fui uma pedra no rim.
 
 <div>
   <a href="https://github.com/juvigh">
