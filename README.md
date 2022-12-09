@@ -1,4 +1,4 @@
-### Olá, eu sou o Julio 👋
+# Olá, eu sou o Julio 👋
 
 - 🌱 Estudando Javascript
 - 😄 Pronomes: ele/dele
