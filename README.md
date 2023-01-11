@@ -1,6 +1,6 @@
 # Olá, eu sou o Julio 👋
 
-- 🌱 Estudando Javascript
+- 🌱 Estudando React e NodeJS
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Antes de virar um bebê, eu ja fui uma pedra no rim.
 
