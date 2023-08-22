@@ -2,7 +2,7 @@
 
 - 🌱 Estudando React e GraphQL
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Antes de virar um bebê, eu ja fui uma pedra no rim.
+- ⚡ Fun fact: Antes de ser um bebê, eu fui uma pedra no rim.
 <br>
 <div>
   <a href="https://github.com/juvigh">
