@@ -1,6 +1,6 @@
 # Olá, eu sou o Julio 👋
 
-- Desenvolvedor Front-end
+- Desenvolvedor Full-Stack
 - 🌱 Estudando React e GraphQL
 - ⚡ Fun fact: Antes de ser um bebê, eu fui uma pedra no rim.
 
